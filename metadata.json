@@ -1,0 +1,18 @@
+{
+  "name": "JOI",
+  "symbol": "JOI",
+  "image": "https://raw.githubusercontent.com/joidev/joisolona-metadata/main/joi.png",
+  "external_url": "https://joisolana.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/joidev/joisolona-metadata/main/joi.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "links": {
+    "twitter": "https://twitter.com/JOISOLANA",
+    "website": "https://joisolana.com"
+  }
+}
